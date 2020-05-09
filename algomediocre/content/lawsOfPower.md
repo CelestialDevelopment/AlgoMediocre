@@ -1,21 +1,26 @@
 ---
-title: "Test Pagination 2"
-date: "2018-11-09"
+title: "DFS, BFS, Whatever Bitches. "
+date: "2019-11-12"
 category: "FrontEnd"
-cover: ""
+cover:
 tags:
-  - test
+  - vue
 ---
 
-# Quanto et ius coniunctis urbes
+# 48 Laws of Power
 
-## Sedisti civiliter
+## Crush your Enemy Totally
 
-Lorem **markdownum** Ixione palus **semper peritura barbaque** in aureus
+Lorem **markdownum** A timely gift, a trojan horse. ** in aureus
 obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
 ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
 animalia praeceps Meleagre greges venisse corpore et ignara, umquam ipse? Quam
 _Talibus ausis_.
+
+[[info]]
+| obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
+| ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
+| animalia praeceps Meleagre grege.
 
 ## Vultusque subsequitur Pallas regis datis inde animaque
 
@@ -30,6 +35,11 @@ Peleus Aeneadae audacia cruentatis turbae Procrin dirum bacae, accede.
     python.raw_backlink = rfid_load - 4;
     kibibyte *= cdnThumbnailUri;
 ```
+
+[[warning]]
+| obliquum erigitur gemmae utque cur natus, aera supplice de nudae. Manus
+| ambrosiam tendens, saecula tenet, conponere et ense et cucurri. Tantique
+| animalia praeceps Meleagre grege.
 
 ## Fortis dextrae humo limina Tempus singultibus illa
 
